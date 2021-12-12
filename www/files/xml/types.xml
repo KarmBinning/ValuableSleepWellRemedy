@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<types>
+
+  <type id="volunteerHandbook">
+    <name>Open</name>
+    <href>https://drive.google.com/file/d/1bc8plROSDP3bnTt0IjaOWuqxlUJkVcth/view?usp=sharing</href>
+  </type>
+
+  <type id="tipsToRemember">
+    <name>Open</name>
+    <href>https://drive.google.com/file/d/1GqaI4k9I3KBgTaaUj7x3qwZ8uyjPWbz7/view?usp=sharing</href>
+  </type>
+
+  <type id="directoryOfResources">
+    <name>Browse Sleep Wear</name>
+    <href>https://drive.google.com/file/d/1qdv4lPWqKo-Zq9KafT49ecXXk0G-v2Js/view?usp=sharing</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>BORING BOOK #01 Lost and Never Found</name>
+    <href>https://drive.google.com/file/d/1RiC-nxxxrMkHooDzlPlZxi799dSPblqT/view?usp=sharing</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>BORING BOOK #02 Memory of a Grey Horse</name>
+    <href>https://drive.google.com/file/d/1_DL_CNHQeq6q-9Ah68pgGBOjht7fduuQ/view?usp=sharing</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>BORING BOOK #03 Plain Arctic</name>
+    <href>https://drive.google.com/file/d/1kQXcpgde9_3SWBKIdHLaqUoVF3rS0Al7/view?usp=sharing</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>BORING BOOK #04 Heads or Tails or Heads</name>
+    <href>https://drive.google.com/file/d/1UTSgpxXolK9ty3OUq0bCwh4AdlAjYi1z/view?usp=sharing</href>
+  </type>
+  <type id="directoryOfResources">
+    <name>BORING BOOK #05 Staring Contest</name>
+    <href>https://drive.google.com/file/d/1IU6bvVhRS3r8bUqgybuWNWe9hVKrPI4m/view?usp=sharing</href>
+  </type>
+
+</types>
